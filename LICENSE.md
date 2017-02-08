@@ -1,4 +1,4 @@
-The MIT License (MIT)
+Licence Type: The MIT License (MIT)
 
 Copyright (c) 2015 
 
