@@ -109,8 +109,9 @@ img {
 }
 /* Navbar  start */
 #navigation {
-  background: #82BC00;
-  border: 1px solid #82BC00;
+  /*background: #82BC00;*/
+  background: #008080;
+  border: 1px solid #feedba;
   color: #fff;
   padding-top: 50px;
   text-align: center;
@@ -216,7 +217,8 @@ img {
   margin: 50px;
 }
 #header .banner h1 {
-  color: #82BC00;
+  /*color: #82BC00;*/
+  color: #008080;
   font-size: 42px;
   font-weight: 400;
   text-transform: uppercase;
@@ -231,7 +233,8 @@ img {
 }
 #header .banner .scroll a i {
   font-size: 48px;
-  color: #82BC00;
+  /*color: #82BC00;*/
+  color: #008080;
   padding: 12px;
   width: 68px;
   height: 68px;
@@ -447,7 +450,8 @@ img {
 /* Clients Section End */
 /* Skills Section Start */
 #skills {
-  background: url(../img/backgrounds/skill-bg.jpg);
+  /*background: url(../img/backgrounds/skill-bg.jpg);*/
+  background-color: teal;
   background-size: cover;
   color: #ffffff;
   text-align: center;
@@ -664,7 +668,8 @@ img {
 #footer {
   color: #ffffff;
   width: 100%;
-  background: #28363f;
+  /*background: #28363f;*/
+  background: #014747;
   border-top: 1px solid #ffffff;
 }
 #footer .row {
