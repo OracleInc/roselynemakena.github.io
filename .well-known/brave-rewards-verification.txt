@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: roselynemakena.github.io
+Token: cbfea20f0a14d2ed953ce2e95697db0331cedfaee76a253f9ad1920c739b146e
